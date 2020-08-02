@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vinosyofi/static/css/main.b62993c4.chunk.css",
-    "main.js": "/vinosyofi/static/js/main.62985b31.chunk.js",
-    "main.js.map": "/vinosyofi/static/js/main.62985b31.chunk.js.map",
+    "main.js": "/vinosyofi/static/js/main.6c0a2013.chunk.js",
+    "main.js.map": "/vinosyofi/static/js/main.6c0a2013.chunk.js.map",
     "runtime-main.js": "/vinosyofi/static/js/runtime-main.35923a85.js",
     "runtime-main.js.map": "/vinosyofi/static/js/runtime-main.35923a85.js.map",
     "static/css/2.9ff99f11.chunk.css": "/vinosyofi/static/css/2.9ff99f11.chunk.css",
     "static/js/2.27cf1ba6.chunk.js": "/vinosyofi/static/js/2.27cf1ba6.chunk.js",
     "static/js/2.27cf1ba6.chunk.js.map": "/vinosyofi/static/js/2.27cf1ba6.chunk.js.map",
     "index.html": "/vinosyofi/index.html",
-    "precache-manifest.2fb26c9ec31d16ecda5afae5724fb3af.js": "/vinosyofi/precache-manifest.2fb26c9ec31d16ecda5afae5724fb3af.js",
+    "precache-manifest.45a2afec2d4a9340a5787c0863b466c2.js": "/vinosyofi/precache-manifest.45a2afec2d4a9340a5787c0863b466c2.js",
     "service-worker.js": "/vinosyofi/service-worker.js",
     "static/css/2.9ff99f11.chunk.css.map": "/vinosyofi/static/css/2.9ff99f11.chunk.css.map",
     "static/css/main.b62993c4.chunk.css.map": "/vinosyofi/static/css/main.b62993c4.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.9ff99f11.chunk.css",
     "static/js/2.27cf1ba6.chunk.js",
     "static/css/main.b62993c4.chunk.css",
-    "static/js/main.62985b31.chunk.js"
+    "static/js/main.6c0a2013.chunk.js"
   ]
 }
