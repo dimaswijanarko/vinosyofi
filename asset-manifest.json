@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/vinosyofi/static/css/main.b62993c4.chunk.css",
-    "main.js": "/vinosyofi/static/js/main.4aacb365.chunk.js",
-    "main.js.map": "/vinosyofi/static/js/main.4aacb365.chunk.js.map",
+    "main.js": "/vinosyofi/static/js/main.a5ebc510.chunk.js",
+    "main.js.map": "/vinosyofi/static/js/main.a5ebc510.chunk.js.map",
     "runtime-main.js": "/vinosyofi/static/js/runtime-main.35923a85.js",
     "runtime-main.js.map": "/vinosyofi/static/js/runtime-main.35923a85.js.map",
     "static/css/2.9ff99f11.chunk.css": "/vinosyofi/static/css/2.9ff99f11.chunk.css",
     "static/js/2.27cf1ba6.chunk.js": "/vinosyofi/static/js/2.27cf1ba6.chunk.js",
     "static/js/2.27cf1ba6.chunk.js.map": "/vinosyofi/static/js/2.27cf1ba6.chunk.js.map",
     "index.html": "/vinosyofi/index.html",
-    "precache-manifest.3aff647d0e2f5137ca725b3dd2370523.js": "/vinosyofi/precache-manifest.3aff647d0e2f5137ca725b3dd2370523.js",
+    "precache-manifest.9df6997b8db451402445ed70aedad75e.js": "/vinosyofi/precache-manifest.9df6997b8db451402445ed70aedad75e.js",
     "service-worker.js": "/vinosyofi/service-worker.js",
     "static/css/2.9ff99f11.chunk.css.map": "/vinosyofi/static/css/2.9ff99f11.chunk.css.map",
     "static/css/main.b62993c4.chunk.css.map": "/vinosyofi/static/css/main.b62993c4.chunk.css.map",
     "static/js/2.27cf1ba6.chunk.js.LICENSE.txt": "/vinosyofi/static/js/2.27cf1ba6.chunk.js.LICENSE.txt",
     "static/media/love.png": "/vinosyofi/static/media/love.9551dc36.png",
     "static/media/syofi.jpeg": "/vinosyofi/static/media/syofi.db6a3ef2.jpeg",
+    "static/media/undanganku.png": "/vinosyofi/static/media/undanganku.d4e12dd0.png",
     "static/media/vino.jpeg": "/vinosyofi/static/media/vino.a4fff288.jpeg"
   },
   "entrypoints": [
@@ -23,6 +24,6 @@
     "static/css/2.9ff99f11.chunk.css",
     "static/js/2.27cf1ba6.chunk.js",
     "static/css/main.b62993c4.chunk.css",
-    "static/js/main.4aacb365.chunk.js"
+    "static/js/main.a5ebc510.chunk.js"
   ]
 }

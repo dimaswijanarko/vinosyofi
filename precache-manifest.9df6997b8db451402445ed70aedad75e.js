@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "beae7539353f96521535a32dc93866a0",
+    "revision": "cd68aa47947c39a4dbe633e18a4f54d2",
     "url": "/vinosyofi/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vinosyofi/static/css/2.9ff99f11.chunk.css"
   },
   {
-    "revision": "1ee4e43031e3242a9dd3",
+    "revision": "5b2429fde0031166aeb3",
     "url": "/vinosyofi/static/css/main.b62993c4.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vinosyofi/static/js/2.27cf1ba6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1ee4e43031e3242a9dd3",
-    "url": "/vinosyofi/static/js/main.4aacb365.chunk.js"
+    "revision": "5b2429fde0031166aeb3",
+    "url": "/vinosyofi/static/js/main.a5ebc510.chunk.js"
   },
   {
     "revision": "6dbe980cfeca86144c74",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "db6a3ef23f619e189e156952a46e5873",
     "url": "/vinosyofi/static/media/syofi.db6a3ef2.jpeg"
+  },
+  {
+    "revision": "d4e12dd00afee9d0e5228328d372b745",
+    "url": "/vinosyofi/static/media/undanganku.d4e12dd0.png"
   },
   {
     "revision": "a4fff28800fa42660ecd7d5b12d77246",
