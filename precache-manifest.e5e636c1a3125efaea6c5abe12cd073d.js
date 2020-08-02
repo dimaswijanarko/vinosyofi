@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a77ae1648a09e3e2b5576fd26a43a2cd",
+    "revision": "ff49fd2df3ea33c182c9d88e990c734b",
     "url": "/vinosyofi/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vinosyofi/static/css/2.9ff99f11.chunk.css"
   },
   {
-    "revision": "a29e4456cae502b897d4",
+    "revision": "1ee4e43031e3242a9dd3",
     "url": "/vinosyofi/static/css/main.b62993c4.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vinosyofi/static/js/2.27cf1ba6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a29e4456cae502b897d4",
-    "url": "/vinosyofi/static/js/main.6c0a2013.chunk.js"
+    "revision": "1ee4e43031e3242a9dd3",
+    "url": "/vinosyofi/static/js/main.4aacb365.chunk.js"
   },
   {
     "revision": "6dbe980cfeca86144c74",
