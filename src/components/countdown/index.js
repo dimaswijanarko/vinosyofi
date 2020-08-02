@@ -44,12 +44,12 @@ function index() {
       <div className="d-flex section-lokasi-acara justify-content-around">
         <div>
           <h5>Akad Nikah</h5>
-          08.00 - 09:00
+          09:00 s.d Selesai
         </div>
-        <div>
+        {/* <div>
           <h5>Skukuran</h5>
           12.00 - 14:00
-        </div>
+        </div> */}
       </div>
     </Wrapper>
   );
