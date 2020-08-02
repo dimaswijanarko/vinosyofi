@@ -13,7 +13,7 @@ export const FotoMempelai = styled.div`
   width: 128px;
   height: 128px;
   border-radius: 50%;
-  overflow: overlay;
+  overflow: hidden;
 
   img {
     object-fit: cover;
