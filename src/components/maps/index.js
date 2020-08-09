@@ -8,7 +8,7 @@ function index() {
       <div className="d-flex justify-content-center map-icon">
         <img width="100%" src={LogoMaps} alt="" />
       </div>
-      <h1>Perum lestari indah, Menganti . Gresik</h1>
+      <h1>Perum lestari indah blok CB 23, Menganti . Gresik</h1>
       <div>
         <div>
           <iframe

@@ -26,6 +26,22 @@ function index() {
           <h5>@cyntiayoga</h5>
         </a>
       </div>
+      <div className="d-flex justify-content-around link-instagram-mempelai">
+        <a
+          href="https://shopee.co.id/beautaniashop"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h5>BEAUWED01 UNTUK DISKON 15RB PEMBELIAN MIN 100RB</h5>
+        </a>
+        <a
+          href="https://shopee.co.id/beautaniashop"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h5>BEAUWED02 UNTUK DISKON 35RB PEMBELIAN MIN 200RB</h5>
+        </a>
+      </div>
     </Wrapper>
   );
 }

@@ -5,7 +5,7 @@ import Maps from "../maps";
 import Heart from "../hearts";
 import CardMempelai from "../card-mempelai";
 import InstagramLive from "../instagram-live";
-import Vino from "../../img/vino.jpeg";
+import Vino from "../../img/vino2.jpeg";
 import Syofi from "../../img/syofi.jpeg";
 
 function index() {
@@ -16,7 +16,7 @@ function index() {
           <Tittle>Vino</Tittle>
           <CardMempelai
             nama={"Vino Tanuwijaya, ST"}
-            type={"Bin"}
+            type={"Anak kedua dari"}
             bapak={"Mugghi Tanuwijaya"}
             // ibu={"-"}
             img={Vino}
@@ -28,7 +28,7 @@ function index() {
         <div className="mempelai-wanita">
           <Tittle>Syofi</Tittle>
           <CardMempelai
-            type={"Binti "}
+            type={"Anak pertama dari "}
             bapak={"Prajogo Utomo"}
             nama={" Pradita  Cyntiawati Yoga"}
             // ibu={"-"}
