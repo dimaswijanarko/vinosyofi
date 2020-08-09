@@ -16,7 +16,7 @@ function index() {
 
         <p>
           Dengan memohon Ridho Allah SWT perkenankanlah kami mengundang kalian
-          untuk menghadiri acara Akad Nikah Virtual"
+          untuk menghadiri acara Akad Nikah Virtual
         </p>
       </Wrapper>
     </div>
