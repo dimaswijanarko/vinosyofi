@@ -19,11 +19,11 @@ function index() {
           <h5>@mempelaipria</h5>
         </a> */}
         <a
-          href="https://www.instagram.com/cyntiayoga"
+          href="https://www.instagram.com/lambeturah"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h5>@cyntiayoga</h5>
+          <h5>@lambeturah</h5>
         </a>
       </div>
       <div className="d-flex justify-content-around link-instagram-mempelai">
