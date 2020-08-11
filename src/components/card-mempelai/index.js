@@ -11,7 +11,7 @@ function index({ img, type, bapak, ibu, nama }) {
       <h5>{type}</h5>
       <p>
         Bapak {bapak}
-        {/* dan Ibu {ibu} */}
+        dan Ibu {ibu}
       </p>
     </Wrapper>
   );

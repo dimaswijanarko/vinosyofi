@@ -17,8 +17,8 @@ function index() {
           <CardMempelai
             nama={"Vino Tanuwijaya, ST"}
             type={"Anak kedua dari"}
-            bapak={"Mugghi Tanuwijaya"}
-            // ibu={"-"}
+            bapak={"Mugghi Tanuwijaya "}
+            ibu={"Yeni"}
             img={Vino}
           />
         </div>
@@ -29,9 +29,9 @@ function index() {
           <Tittle>Syofi</Tittle>
           <CardMempelai
             type={"Anak pertama dari "}
-            bapak={"Prajogo Utomo"}
+            bapak={"Prajogo Utomo "}
             nama={" Pradita  Cyntiawati Yoga"}
-            // ibu={"-"}
+            ibu={"Purwati"}
             img={Syofi}
           />
         </div>
